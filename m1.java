@@ -1,4 +1,4 @@
 class main
 {
-  hello
+  hi
 }
